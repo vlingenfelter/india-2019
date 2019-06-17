@@ -99,14 +99,14 @@ const Project: React.FunctionComponent<PageProps> = ({ data: { project, images }
     <Layout color={project.color}>
       <SEO
         pathname={project.slug}
-        title={`${project.title_detail} | Jodie`}
+        title={`${project.title_detail} | India 2019`}
         desc={project.desc}
         node={project.parent}
         banner={project.cover.childImageSharp.resize.src}
         individual
       />
       <PBox py={10} px={[6, 6, 8, 10]}>
-        <Category style={categoryAnimation}>{project.category}</Category>
+        <Category style={categoryAnimation}>{project.category}   |   {project.date}</Category>
         <animated.h1 style={titleAnimation}>{project.title_detail}</animated.h1>
         <Description style={descAnimation}>
           <div dangerouslySetInnerHTML={{ __html: project.desc }} />
@@ -120,8 +120,8 @@ const Project: React.FunctionComponent<PageProps> = ({ data: { project, images }
         </PBox>
       </Content>
       <PBox style={{ textAlign: 'center' }} py={10} px={[6, 6, 8, 10]}>
-        <h2>Want to start your own project?</h2>
-        <PButton color={project.color} py={4} px={8}>
+        <h2>Have some questions?</h2>
+        <PButton color={project.color} py={4} px={8} onclick="href='mailto:vlingenfelter5@gmail.com';">
           Contact Us
         </PButton>
       </PBox>
@@ -137,6 +137,7 @@ export const query = graphql`
       title_detail
       color
       category
+      date
       desc
       slug
       parent {

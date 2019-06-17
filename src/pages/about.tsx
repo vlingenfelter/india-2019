@@ -13,12 +13,14 @@ const About = () => {
 
   return (
     <Layout>
-      <SEO title="About | Jodie" desc="Hi. I'm LekoArts! You can visit my website or my other Gatsby projects." />
+      <SEO title="The Program | India 2019" desc="Hi. I'm LekoArts! You can visit my website or my other Gatsby projects." />
       <AnimatedBox style={pageAnimation} py={[6, 6, 6, 8]} px={[6, 6, 8, 6, 8, 13]}>
-        <h1>Dialogue of Civilizations: Climate Change Science in India and Nepal</h1>
+        <h1>Climate Change Science and Policy in India and Nepal</h1>
+        <h2>May 10, 2019 - June 13, 2019 </h2>
+      
         <p>
-          You can visit my <a href="https://www.lekoarts.de/en">website</a> or my other{' '}
-          <a href="https://gatsby-starter-portfolio.netlify.com">Gatsby projects</a>.
+          This website is made with Gatsby.js and is hosted on Github. You can visit my <a href="https://www.violetlingenfelter.com/">website</a> or my other{' '}
+          <a href="https://github.com/vlingenfelter">projects</a>.
         </p>
       </AnimatedBox>
     </Layout>

@@ -5,15 +5,15 @@ module.exports = {
   siteTitleAlt: 'Climate Change Dialogue', // Alternative Site title for SEO
   siteTitleShort: 'Dialogue', // short_name for manifest
   siteHeadline: 'Climate Change Resilience Dialogue 2019', // Headline for schema.org JSONLD
-  siteUrl: 'https://jodie.lekoarts.de', // Domain of your site. No trailing slash!
+  siteUrl: 'https://violetlingenfelter.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/logo.png', // Used for SEO and manifest
   siteDescription: 'Summary of 2019 Climate Change Resilience Dialogue to India and Nepal',
   author: 'Violet Lingenfelter', // Author for schema.org JSONLD
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
-  userTwitter: '@jodie', // Twitter Username
-  ogSiteName: 'jodie', // Facebook Site Name
+  userTwitter: '@india-2019', // Twitter Username
+  ogSiteName: 'India 2019', // Facebook Site Name
   ogLanguage: 'en_US', // og:language
   googleAnalyticsID: 'UA-XXXXXX-X',
 

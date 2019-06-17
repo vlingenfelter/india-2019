@@ -252,8 +252,8 @@ const Layout = ({ children, color }: LayoutProps) => {
           <Main>{children}</Main>
           <Footer color={color}>
             <Box p={[6, 6, 8]} fontSize={0}>
-              Website by <a href="https://www.violetlingenfelter.com/">Violet Lingenfelter</a>.<br />
-              <a href="https://github.com/LekoArts/gatsby-starter-portfolio-jodie">Source</a>.
+              Made with ❤ in Boston <br />
+              <a href="https://github.com/vlingenfelter/india-2019">Source &lt;/> </a>
             </Box>
           </Footer>
         </Wrapper>

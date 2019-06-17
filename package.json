@@ -1,11 +1,12 @@
 {
-  "name": "india-portfolio",
+  "name": "india-2019",
   "private": true,
   "description": "Image-heavy photography portfolio with colorful accents & great typography",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
+    "develop": "cross-env CYPRESS_SUPPORT=y gatsby develop",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "dev": "gatsby develop -o",
     "start": "yarn develop",
@@ -43,6 +44,7 @@
     "gatsby-source-instagram": "^0.5.0",
     "gatsby-transformer-sharp": "^2.1.21",
     "gatsby-transformer-yaml": "^2.1.12",
+    "gh-pages": "^2.0.1",
     "polished": "^3.4.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -74,7 +76,6 @@
     "eslint-plugin-prettier": "^3.1.0",
     "eslint-plugin-react": "^7.13.0",
     "gatsby-cypress": "^0.1.9",
-    "gh-pages": "^2.0.1",
     "npm-run-all": "^4.1.5",
     "prettier": "^1.18.2",
     "start-server-and-test": "^1.9.1"
