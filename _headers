@@ -1,0 +1,96 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-gatsby-plugin-offline-app-shell-js-4dde47e2feeafceb0edd.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.a08631446c71e8212524.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-80840324b7280ec6ce5c.js
+  Cache-Control: public, max-age=31536000, immutable
+/1-02c2e474cf8f6c3952d6.js
+  Cache-Control: public, max-age=31536000, immutable
+/2-8216c78f596c2df9685e.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-project-tsx-688f6d1c8a9a848dc4cd.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-about-tsx-b5381bb05c4605429ff1.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-tsx-22d435d36163a422e441.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-instagram-tsx-a6a4350816a38f7ef631.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-projects-tsx-3553a6fecd034742bcbb.js
+  Cache-Control: public, max-age=31536000, immutable
+/pages-manifest-318f1c49d5aa622caedd.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-e74c0e4846e9f18810f2.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-1af6ffa0e6d5b30fbc10.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/india-2019/offline-plugin-app-shell-fallback/
+  Link: </india-2019/webpack-runtime-e74c0e4846e9f18810f2.js>; rel=preload; as=script
+  Link: </india-2019/app-1af6ffa0e6d5b30fbc10.js>; rel=preload; as=script
+  Link: </india-2019/component---node-modules-gatsby-plugin-offline-app-shell-js-4dde47e2feeafceb0edd.js>; rel=preload; as=script
+/india-2019/kolkata
+  Link: </india-2019/webpack-runtime-e74c0e4846e9f18810f2.js>; rel=preload; as=script
+  Link: </india-2019/app-1af6ffa0e6d5b30fbc10.js>; rel=preload; as=script
+  Link: </india-2019/styles-80840324b7280ec6ce5c.js>; rel=preload; as=script
+  Link: </india-2019/1-02c2e474cf8f6c3952d6.js>; rel=preload; as=script
+  Link: </india-2019/2-8216c78f596c2df9685e.js>; rel=preload; as=script
+  Link: </india-2019/component---src-templates-project-tsx-688f6d1c8a9a848dc4cd.js>; rel=preload; as=script
+/india-2019/gangtok
+  Link: </india-2019/webpack-runtime-e74c0e4846e9f18810f2.js>; rel=preload; as=script
+  Link: </india-2019/app-1af6ffa0e6d5b30fbc10.js>; rel=preload; as=script
+  Link: </india-2019/styles-80840324b7280ec6ce5c.js>; rel=preload; as=script
+  Link: </india-2019/1-02c2e474cf8f6c3952d6.js>; rel=preload; as=script
+  Link: </india-2019/2-8216c78f596c2df9685e.js>; rel=preload; as=script
+  Link: </india-2019/component---src-templates-project-tsx-688f6d1c8a9a848dc4cd.js>; rel=preload; as=script
+/india-2019/Kathmandu
+  Link: </india-2019/webpack-runtime-e74c0e4846e9f18810f2.js>; rel=preload; as=script
+  Link: </india-2019/app-1af6ffa0e6d5b30fbc10.js>; rel=preload; as=script
+  Link: </india-2019/styles-80840324b7280ec6ce5c.js>; rel=preload; as=script
+  Link: </india-2019/1-02c2e474cf8f6c3952d6.js>; rel=preload; as=script
+  Link: </india-2019/2-8216c78f596c2df9685e.js>; rel=preload; as=script
+  Link: </india-2019/component---src-templates-project-tsx-688f6d1c8a9a848dc4cd.js>; rel=preload; as=script
+/india-2019/Pokhara
+  Link: </india-2019/webpack-runtime-e74c0e4846e9f18810f2.js>; rel=preload; as=script
+  Link: </india-2019/app-1af6ffa0e6d5b30fbc10.js>; rel=preload; as=script
+  Link: </india-2019/styles-80840324b7280ec6ce5c.js>; rel=preload; as=script
+  Link: </india-2019/1-02c2e474cf8f6c3952d6.js>; rel=preload; as=script
+  Link: </india-2019/2-8216c78f596c2df9685e.js>; rel=preload; as=script
+  Link: </india-2019/component---src-templates-project-tsx-688f6d1c8a9a848dc4cd.js>; rel=preload; as=script
+/india-2019/about/
+  Link: </india-2019/webpack-runtime-e74c0e4846e9f18810f2.js>; rel=preload; as=script
+  Link: </india-2019/app-1af6ffa0e6d5b30fbc10.js>; rel=preload; as=script
+  Link: </india-2019/styles-80840324b7280ec6ce5c.js>; rel=preload; as=script
+  Link: </india-2019/1-02c2e474cf8f6c3952d6.js>; rel=preload; as=script
+  Link: </india-2019/component---src-pages-about-tsx-b5381bb05c4605429ff1.js>; rel=preload; as=script
+/india-2019/
+  Link: </india-2019/webpack-runtime-e74c0e4846e9f18810f2.js>; rel=preload; as=script
+  Link: </india-2019/app-1af6ffa0e6d5b30fbc10.js>; rel=preload; as=script
+  Link: </india-2019/styles-80840324b7280ec6ce5c.js>; rel=preload; as=script
+  Link: </india-2019/1-02c2e474cf8f6c3952d6.js>; rel=preload; as=script
+  Link: </india-2019/2-8216c78f596c2df9685e.js>; rel=preload; as=script
+  Link: </india-2019/component---src-pages-index-tsx-22d435d36163a422e441.js>; rel=preload; as=script
+/india-2019/instagram/
+  Link: </india-2019/webpack-runtime-e74c0e4846e9f18810f2.js>; rel=preload; as=script
+  Link: </india-2019/app-1af6ffa0e6d5b30fbc10.js>; rel=preload; as=script
+  Link: </india-2019/styles-80840324b7280ec6ce5c.js>; rel=preload; as=script
+  Link: </india-2019/1-02c2e474cf8f6c3952d6.js>; rel=preload; as=script
+  Link: </india-2019/2-8216c78f596c2df9685e.js>; rel=preload; as=script
+  Link: </india-2019/component---src-pages-instagram-tsx-a6a4350816a38f7ef631.js>; rel=preload; as=script
+/india-2019/projects/
+  Link: </india-2019/webpack-runtime-e74c0e4846e9f18810f2.js>; rel=preload; as=script
+  Link: </india-2019/app-1af6ffa0e6d5b30fbc10.js>; rel=preload; as=script
+  Link: </india-2019/styles-80840324b7280ec6ce5c.js>; rel=preload; as=script
+  Link: </india-2019/1-02c2e474cf8f6c3952d6.js>; rel=preload; as=script
+  Link: </india-2019/2-8216c78f596c2df9685e.js>; rel=preload; as=script
+  Link: </india-2019/component---src-pages-projects-tsx-3553a6fecd034742bcbb.js>; rel=preload; as=script
