@@ -1,6 +1,6 @@
+- name: "About"
+  link: "/about"
 - name: "Destinations"
   link: "/projects"
-- name: "The Program"
-  link: "/about"
 - name: "Reflection"
   link: "/reflection"

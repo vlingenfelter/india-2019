@@ -120,10 +120,9 @@ const Project: React.FunctionComponent<PageProps> = ({ data: { project, images }
         </PBox>
       </Content>
       <PBox style={{ textAlign: 'center' }} py={10} px={[6, 6, 8, 10]}>
-        <h2>Have some questions?</h2>
-        <PButton color={project.color} py={4} px={8} onclick="href='mailto:vlingenfelter5@gmail.com';">
-          Contact Us
-        </PButton>
+        <h3>
+          Website made with <a href="https://www.gatsbyjs.org/" >Gatsby.js</a>
+        </h3>
       </PBox>
     </Layout>
   )
