@@ -15,7 +15,7 @@ module.exports = {
   userTwitter: '@india-2019', // Twitter Username
   ogSiteName: 'India 2019', // Facebook Site Name
   ogLanguage: 'en_US', // og:language
-  googleAnalyticsID: 'UA-XXXXXX-X',
+  googleAnalyticsID: 'UA-131008281-2',
 
   // Manifest and Progress color
   themeColor: '#db7436',
